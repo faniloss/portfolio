@@ -5,8 +5,6 @@
 layout: page
 ---
 
-{% include_relative _layouts/head.html %}
-
 <h1>Lorem ipsum</h1>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt cumque ut fugit dicta ullam laborum quod adipisci enim nam, fugiat vitae modi sunt aut placeat eveniet iure. Totam, eius, tempore.</p>
