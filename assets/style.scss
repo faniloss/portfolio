@@ -2,8 +2,77 @@
 ---
 @import "{{ site.theme }}";
 
+body {
+  font-family: Futura, sans-serif;
+  text-transform: uppercase;
+}
+
+.trigger {
+  .page-link:hover {
+    transition: 0.3s;
+    font-size: 17px;
+    color: #E3442F;
+  }
+
+  .selected {
+    font-size: 17px;
+    color: #E3442F;
+  }
+}
+
+.banner {
+  margin-left: calc(-100vw / 2 + 940px / 2);
+  margin-right: calc(-100vw / 2 + 940px / 2);
+  background-color: #E3442F;
+  img {
+    margin: 0 auto;
+    display: block;
+  }
+
+  ul {
+    text-align: center;
+    li {
+      display: inline;
+    }
+  }
+}
+
+@media (min-width: 400px) and (max-width: 770px) {
+  .banner {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
 .site-header {
   a {
     text-decoration: none;
+  }
+}
+
+.page-content, .site-footer, .site-header {
+  .wrapper {
+    max-width: -webkit-calc(1000px - (30px * 2));
+    max-width: calc(1000px - (30px * 2));
+  }
+}
+
+.post-content {
+  .single-art {
+    font-family: Courier;
+    text-transform: none;
+
+    .legend {
+      width: 25%;
+      display: inline-block;
+    }
+
+    .image {
+      width: 70%;
+      float: right;
+      display: inline-block;
+      margin: 0 5px;
+    }
   }
 }

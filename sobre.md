@@ -2,6 +2,7 @@
 layout: page
 title: Sobre mim
 permalink: /sobre-mim/
+order: 1
 ---
 
 {% include_relative _layouts/head.html %}
