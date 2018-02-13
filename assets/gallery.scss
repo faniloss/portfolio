@@ -35,16 +35,20 @@
 
 .cbp-rfgrid li a img {
   max-width: 100%;
+  background: rgba(0, 0, 0, 0.3);
   filter: grayscale(100%);
 }
 
 /* Flexbox is used for centering the heading */
 .cbp-rfgrid li a div {
+  font-size: 8px;
   position: absolute;
-  left: 20px;
-  top: 20px;
-  right: 20px;
-  bottom: 20px;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  transition: 0.5s;
+  background: rgba(0, 0, 0, 0.7);
   display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flex;
@@ -52,19 +56,21 @@
   -webkit-align-items: center;
   -moz-align-items: center;
   -ms-align-items: center;
-    align-items: center;
-    text-align: center;
-    opacity: 0;
+  align-items: center;
+  text-align: center;
+  opacity: 0;
 }
 
 .cbp-rfgrid li a:hover div {
   opacity: 1;
 }
 
-.cbp-rfgrid li a:hover img {
-  transform: scale(1.5);
-  transition: 0.5s;
-  filter: grayscale(0%);
+.cbp-rfgrid li a:hover {
+  img {
+    transform: scale(1.5);
+    transition: 0.5s;
+    filter: grayscale(100%);
+  }
 }
 
 .cbp-rfgrid li a div h3 {

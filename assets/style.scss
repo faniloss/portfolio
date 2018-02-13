@@ -52,6 +52,12 @@ body {
 }
 
 .page-content, .site-footer, .site-header {
+  &.index {
+    padding: 0 0;
+    margin-top: -30px;
+    margin-bottom: -30px;
+  }
+
   .wrapper {
     max-width: -webkit-calc(1000px - (30px * 2));
     max-width: calc(1000px - (30px * 2));
