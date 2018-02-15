@@ -11,6 +11,6 @@ exclude: true
   </div>
 
   <div class="image">
-    <img src="/assets/images/anita-malfatti-finpq.jpg" alt="">
+    <img src="/assets/images/caricaturas/anita-malfatti-finpq.jpg" alt="">
   </div>
 </div>

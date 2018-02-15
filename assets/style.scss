@@ -2,12 +2,26 @@
 ---
 @import "{{ site.theme }}";
 
+@font-face {
+  font-family: Futura-Medium;
+  src: url(fonts/Futura-Medium.eot), url(fonts/Futura-Medium.ttf), url(fonts/Futura-Medium.woff);
+}
+
+@font-face {
+  font-family: Futura-Bold;
+  src: url(fonts/Futura-Bold.eot), url(fonts/Futura-Bold.ttf), url(fonts/Futura-Bold.woff);
+}
+
 body {
-  font-family: Futura, sans-serif;
+  font-family: Futura-Medium, sans-serif;
   text-transform: uppercase;
 }
 
 .trigger {
+  .page-link {
+    font-size: 16px;
+    font-family: Futura-Bold, sans-serif; 
+  }
   .page-link:hover {
     transition: 0.3s;
     font-size: 17px;
@@ -65,6 +79,10 @@ body {
 }
 
 .post-content {
+  .content {
+    text-transform: none;
+    font-family: Courier;
+  }
   .single-art {
     font-family: Courier;
     text-transform: none;

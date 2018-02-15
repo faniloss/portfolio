@@ -11,6 +11,6 @@ exclude: true
   </div>
 
   <div class="image">
-    <img src="/assets/images/elizethpq.jpg" alt="">
+    <img src="/assets/images/caricaturas/elizethpq.jpg" alt="">
   </div>
 </div>

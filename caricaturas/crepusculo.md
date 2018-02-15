@@ -11,6 +11,6 @@ exclude: true
   </div>
 
   <div class="image">
-    <img src="/assets/images/Crepúsculo-dos-Deuses.jpg" alt="">
+    <img src="/assets/images/caricaturas/Crepusculo-dos-Deuses.jpg" alt="">
   </div>
 </div>

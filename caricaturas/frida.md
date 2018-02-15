@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elizeth
+title: Frida
 permalink: /caricaturas/frida/
 exclude: true
 ---
@@ -11,6 +11,6 @@ exclude: true
   </div>
 
   <div class="image">
-    <img src="/assets/images/Fridapq.jpg" alt="">
+    <img src="/assets/images/caricaturas/Fridamd.jpg" alt="">
   </div>
 </div>
