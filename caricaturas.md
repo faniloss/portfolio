@@ -65,4 +65,16 @@ permalink: /caricaturas/
       <div><h3>Leila Diniz</h3></div>
     </a>
   </li>
+  <li>
+    <a href="/caricaturas/amor">
+      <img src="/assets/images/caricaturas/thumbs/amor.jpg" />
+      <div><h3>Amor à Flor da Pele</h3></div>
+    </a>
+  </li>
+  <li>
+    <a href="/caricaturas/chaplin">
+      <img src="/assets/images/caricaturas/thumbs/chaplin.jpg" />
+      <div><h3>Chaplin</h3></div>
+    </a>
+  </li>
 </ul>

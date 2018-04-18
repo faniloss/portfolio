@@ -6,63 +6,75 @@ permalink: /arte-digital/
 
 <ul class="cbp-rfgrid">
   <li>
-    <a href="/caricaturas/anita">
-      <img src="/assets/images/anita.jpg" />
-      <div><h3>Anita Malfati</h3></div>
+    <a href="/arte-digital/circo">
+      <img src="/assets/images/digital/thumbs/circo.jpg" />
+      <div><h3>Logga Cursos Preparatórios - Ilustração</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/baby">
-      <img src="/assets/images/baby.jpg" />
-      <div><h3>Baby Jane</h3></div>
+    <a href="/arte-digital/casal">
+      <img src="/assets/images/digital/thumbs/casal.jpg" />
+      <div><h3>Jornal O Dia </h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/chico">
-      <img src="/assets/images/chico.jpg" />
-      <div><h3>Chico Buarque</h3></div>
+    <a href="/arte-digital/lich">
+      <img src="/assets/images/digital/thumbs/lich.jpg" />
+      <div><h3>Pintura Digital de Cenário - Lichtenstein</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/cidade">
-      <img src="/assets/images/cidade.jpg" />
-      <div><h3>Cidade de Deus</h3></div>
+    <a href="/arte-digital/cuba">
+      <img src="/assets/images/digital/thumbs/cuba.jpg" />
+      <div><h3>Pintura Digital de Cenário - Cuba</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/elizeth">
-      <img src="/assets/images/elizeth.jpg" />
-      <div><h3>Elizeth</h3></div>
+    <a href="/arte-digital/girafa">
+      <img src="/assets/images/digital/thumbs/girafa.jpg" />
+      <div><h3>Desenho de Personagem - Girafa</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/frida">
-      <img src="/assets/images/frida.jpg" />
-      <div><h3>Frida</h3></div>
+    <a href="/arte-digital/iemen">
+      <img src="/assets/images/digital/thumbs/iemen.jpg" />
+      <div><h3>Pintura Digital de Cenário - Iêmen</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/leila">
-      <img src="/assets/images/leila.jpg" />
-      <div><h3>Leila Diniz</h3></div>
+    <a href="/arte-digital/viloes">
+      <img src="/assets/images/digital/thumbs/viloes.jpg" />
+      <div><h3>Jornal Brasil Econômico - Ilustração</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/mononcle">
-      <img src="/assets/images/mononcle.jpg" />
-      <div><h3>Mon Oncle</h3></div>
+    <a href="/arte-digital/mudancas">
+      <img src="/assets/images/digital/thumbs/mudancas.jpg" />
+      <div><h3>Jorna A Tribuna - ES - Ilustração</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/crepusculo">
-      <img src="/assets/images/normadesmond.jpg" />
-      <div><h3>Crepúsculo dos Deuses</h3></div>
+    <a href="/arte-digital/deusa">
+      <img src="/assets/images/digital/thumbs/deusa.jpg" />
+      <div><h3>Jornal O Dia - Ilustração</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/torquato">
-      <img src="/assets/images/torquato.jpg" />
-      <div><h3>Torquato</h3></div>
+    <a href="/arte-digital/africa">
+      <img src="/assets/images/digital/thumbs/africa.jpg" />
+      <div><h3>Jornal Brasil Econômico - Ilustração</h3></div>
+    </a>
+  </li>
+  <li>
+    <a href="/arte-digital/mae">
+      <img src="/assets/images/digital/thumbs/mae.jpg" />
+      <div><h3>Jornal O Dia - Ilustração</h3></div>
+    </a>
+  </li>
+  <li>
+    <a href="/arte-digital/insalubridade">
+      <img src="/assets/images/digital/thumbs/insalubridade.jpg" />
+      <div><h3>Logga Cursos Preparatórios - Ilustração</h3></div>
     </a>
   </li>
 </ul>

@@ -6,63 +6,75 @@ permalink: /cartazes/
 
 <ul class="cbp-rfgrid">
   <li>
-    <a href="/caricaturas/anita">
-      <img src="/assets/images/anita.jpg" />
-      <div><h3>Anita Malfati</h3></div>
+    <a href="/cartazes/inverno">
+      <img src="/assets/images/cartazes/thumbs/inverno.jpg" />
+      <div><h3>Inverno de Sangue em Veneza</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/baby">
-      <img src="/assets/images/baby.jpg" />
-      <div><h3>Baby Jane</h3></div>
+    <a href="/cartazes/toni">
+      <img src="/assets/images/cartazes/thumbs/toni.jpg" />
+      <div><h3>Toni Erdmann</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/chico">
-      <img src="/assets/images/chico.jpg" />
-      <div><h3>Chico Buarque</h3></div>
+    <a href="/cartazes/artista">
+      <img src="/assets/images/cartazes/thumbs/artista.jpg" />
+      <div><h3>Artista do Desastre</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/cidade">
-      <img src="/assets/images/cidade.jpg" />
-      <div><h3>Cidade de Deus</h3></div>
+    <a href="/cartazes/dunkirk">
+      <img src="/assets/images/cartazes/thumbs/dunkirk.jpg" />
+      <div><h3>Dunkirk</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/elizeth">
-      <img src="/assets/images/elizeth.jpg" />
-      <div><h3>Elizeth</h3></div>
+    <a href="/cartazes/manchester">
+      <img src="/assets/images/cartazes/thumbs/manchester.jpg" />
+      <div><h3>Manchester à Beira-Mar</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/frida">
-      <img src="/assets/images/frida.jpg" />
-      <div><h3>Frida</h3></div>
+    <a href="/cartazes/intendente">
+      <img src="/assets/images/cartazes/thumbs/intendente.jpg" />
+      <div><h3>O Intendente Sansho</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/leila">
-      <img src="/assets/images/leila.jpg" />
-      <div><h3>Leila Diniz</h3></div>
+    <a href="/cartazes/incompreendidos">
+      <img src="/assets/images/cartazes/thumbs/incompreendidos.jpg" />
+      <div><h3>Os Incompreendidos</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/mononcle">
-      <img src="/assets/images/mononcle.jpg" />
-      <div><h3>Mon Oncle</h3></div>
+    <a href="/cartazes/black">
+      <img src="/assets/images/cartazes/thumbs/black.jpg" />
+      <div><h3>Black Mirror - 4ª Temporada</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/crepusculo">
-      <img src="/assets/images/normadesmond.jpg" />
-      <div><h3>Crepúsculo dos Deuses</h3></div>
+    <a href="/cartazes/lalaland">
+      <img src="/assets/images/cartazes/thumbs/lalaland.jpg" />
+      <div><h3>La La Land</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/torquato">
-      <img src="/assets/images/torquato.jpg" />
-      <div><h3>Torquato</h3></div>
+    <a href="/cartazes/spsa">
+      <img src="/assets/images/cartazes/thumbs/spsa.jpg" />
+      <div><h3>São Paulo Sociedade Anônima</h3></div>
+    </a>
+  </li>
+  <li>
+    <a href="/cartazes/rastros">
+      <img src="/assets/images/cartazes/thumbs/rastros.jpg" />
+      <div><h3>Rastros de Ódio</h3></div>
+    </a>
+  </li>
+  <li>
+    <a href="/cartazes/atrapaca">
+      <img src="/assets/images/cartazes/thumbs/atrapaca.jpg" />
+      <div><h3>A Trapaça</h3></div>
     </a>
   </li>
 </ul>

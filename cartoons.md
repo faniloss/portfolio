@@ -6,63 +6,75 @@ permalink: /cartuns/
 
 <ul class="cbp-rfgrid">
   <li>
-    <a href="/caricaturas/anita">
-      <img src="/assets/images/anita.jpg" />
-      <div><h3>Anita Malfati</h3></div>
+    <a href="/cartuns/syria">
+      <img src="/assets/images/cartuns/thumbs/syria.jpg" />
+      <div><h3>Woman Power</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/baby">
-      <img src="/assets/images/baby.jpg" />
-      <div><h3>Baby Jane</h3></div>
+    <a href="/cartuns/barakaldo3">
+      <img src="/assets/images/cartuns/thumbs/barakaldo3.jpg" />
+      <div><h3>technokitchen</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/chico">
-      <img src="/assets/images/chico.jpg" />
-      <div><h3>Chico Buarque</h3></div>
+    <a href="/cartuns/barakaldo1">
+      <img src="/assets/images/cartuns/thumbs/barakaldo1.jpg" />
+      <div><h3>Technolove</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/cidade">
-      <img src="/assets/images/cidade.jpg" />
-      <div><h3>Cidade de Deus</h3></div>
+    <a href="/cartuns/barakaldo2">
+      <img src="/assets/images/cartuns/thumbs/barakaldo2.jpg" />
+      <div><h3>Ontem e Hoje</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/elizeth">
-      <img src="/assets/images/elizeth.jpg" />
-      <div><h3>Elizeth</h3></div>
+    <a href="/cartuns/voltaredonda">
+      <img src="/assets/images/cartuns/thumbs/voltaredonda.jpg" />
+      <div><h3>Operação Lama-Jato</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/frida">
-      <img src="/assets/images/frida.jpg" />
-      <div><h3>Frida</h3></div>
+    <a href="/cartuns/charlie">
+      <img src="/assets/images/cartuns/thumbs/charlie.jpg" />
+      <div><h3>O Humor Nunca Vai se Render</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/leila">
-      <img src="/assets/images/leila.jpg" />
-      <div><h3>Leila Diniz</h3></div>
+    <a href="/cartuns/copa">
+      <img src="/assets/images/cartuns/thumbs/copa.jpg" />
+      <div><h3>Humor na Copa e na Cozinha</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/mononcle">
-      <img src="/assets/images/mononcle.jpg" />
-      <div><h3>Mon Oncle</h3></div>
+    <a href="/cartuns/aovivo">
+      <img src="/assets/images/cartuns/thumbs/aovivo.jpg" />
+      <div><h3>Música ao Vivo</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/crepusculo">
-      <img src="/assets/images/normadesmond.jpg" />
-      <div><h3>Crepúsculo dos Deuses</h3></div>
+    <a href="/cartuns/colarinho">
+      <img src="/assets/images/cartuns/thumbs/colarinho.jpg" />
+      <div><h3>Colarinho Branco</h3></div>
     </a>
   </li>
   <li>
-    <a href="/caricaturas/torquato">
-      <img src="/assets/images/torquato.jpg" />
-      <div><h3>Torquato</h3></div>
+    <a href="/cartuns/amarula">
+      <img src="/assets/images/cartuns/thumbs/amarula.jpg" />
+      <div><h3>Bar da Savana</h3></div>
+    </a>
+  </li>
+  <li>
+    <a href="/cartuns/levanta">
+      <img src="/assets/images/cartuns/thumbs/levanta.jpg" />
+      <div><h3>Levanta Defunto</h3></div>
+    </a>
+  </li>
+  <li>
+    <a href="/cartuns/tapirulan">
+      <img src="/assets/images/cartuns/thumbs/tapirulan.jpg" />
+      <div><h3>Ciao!</h3></div>
     </a>
   </li>
 </ul>
